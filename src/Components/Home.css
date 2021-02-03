@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.TheButtons
+{
+  height: 90vw;
+  width: 90vw;
+  float:center;
+
+}
+
+.thefirst
+{
+    height: 22vw;
+    width: 91vw;
+
+}
+
+.thesec
+{
+    height: 22vw;
+    width: 91vw;
+    
+}
+
+.thethr
+{
+   height: 22vw;
+    width: 91vw;
+    
+}
+
+.thefou
+{
+    height: 22vw;
+    width: 91vw;
+}
+
+.Thetask
+{
+    height: 20vw;
+    width: 20vw;
+    background-color:rgb(238, 43, 116);
+    
+    border-radius:5px;
+    box-shadow: 0 10px 10px 0 rgba(136, 74, 128, 0.2), 0 10px 20px 0 rgba(158, 90, 127, 0.19);
+    float: left;
+    border: 1px solid white;
+   
+    color:white;
+    margin-left: 2vw;
+    margin-bottom: 2vw;
+    font-size: 3vw;
+    font-family: 'Raleway',serif;
+    
+}
+.Thetask1
+{
+    height: 20vw;
+    width: 20vw;
+    background-color:rgb(238, 43, 116);
+    border-radius:5px;
+    box-shadow: 0 10px 10px 0 rgba(136, 74, 128, 0.2), 0 10px 20px 0 rgba(158, 90, 127, 0.19);
+     float: right;
+    border: 1px solid white;
+    color: white; 
+    font-size: 3vw;
+    font-family: 'Raleway',serif;
+}
+
+.short
+{
+    font-size: 4vw;
+  font-family: 'Raleway',serif;
+  margin: 0;
+}
+
+.long
+{
+    font-size: 2.5vw;
+    font-family: 'Raleway',serif;
+    margin-top: 1px
+   
+}

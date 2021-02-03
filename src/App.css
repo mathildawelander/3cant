@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+h1
+{ font-size: 10vw;
+  color: white;
+}
+
+Div.App
+{
+  margin-left: 3.5vw;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body
+{
+  background-size: 100vw 200vw;
+ background-image: url("3cant267.jpg");
+}
+
