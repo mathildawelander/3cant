@@ -15,7 +15,7 @@ var data= [
   active: 0
 },
 {
-  question: 'Spela beerpong med annan grupp (breakoutroom',
+  question: 'Ta på en rolig hatt',
   active: 0
 },
 {
@@ -23,56 +23,56 @@ var data= [
   active: 0
 },
 {
-  question: 'fråga 4',
+  question: 'Utbring en gemensam skål!',
   active: 0
 },
 {
-  question: 'fråga 5',
+  question: 'Ta reda på någons namn som för dig är okänt',
   active: 0
 },
 {
-  question: 'fråga 6',
+  question: 'Utmana någon på sten, sax, påse',
   active: 0
 },
 {
-  question: 'fråga 7',
+  question: 'Drick ett glas vatten',
   active: 0
 },
 {
-  question: 'fråga 8',
+  question: 'Vinn över en i 3Cant på häfv',
   active: 0
 },
 {
-  question: 'fråga 9',
+  question: 'Kör varje spel minst 1 gång',
   active: 0
 },
 {
-  question: 'fråga 10',
+  question: 'Kom top 3 på kahoot',
   active: 0
 },
 {
-  question: 'fråga 11',
+  question: 'Gör en synkad dans med minst 1 person(VISA)',
   active: 0
 },
 {
-  question: 'fråga 12',
+  question: 'Gör draken',
   active: 0
 },
 {
-  question: 'fråga 13',
+  question: 'Starta en snapsvisa',
   active: 0
 },
 {
-  question: 'fråga 14',
+  question: 'Hitta Rosa Cantén',
   active: 0
 }
 ,
 {
-  question: 'fråga 15',
+  question: 'Sjung karaoke',
   active: 0
 },
 {
-  question: 'fråga 16',
+  question: 'Nominera någon till 3Cant',
   active: 0
 }
 
